@@ -10,7 +10,7 @@ int main()
 {
     cout << "\t+ -------------------------------------------------- +\n"
          << "\t| For more information  take a  look  at source code |\n"
-         << "\t| and compile \"detailed_conversion.cpp\" file         |\n"
+         << "\t| and compile \"explain_algorithm.cpp\" file           |\n"
          << "\t+ -------------------------------------------------- +\n\n"
          << "__change integer base(2-16)__\n\n"
          << " NOTE : valid chars are \"0123456789ABCDEF\".\n\n";
