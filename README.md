@@ -1,6 +1,15 @@
-# base_converter
+# Base Converter
 
-This is an algorithm to solve a problem in a 'C++ tutorial' book.
+###### just for learn
 
-## Problem: 
-make a base converter using C++ without string concatination and char array.
+This algorithm is a solution to solve a problem in a **C++ Tutorial** book. 
+
+### Problem
+
+Make a **Base Converter** without using string or char array.
+
+### Install
+
+```
+$ g++ <fileName>
+```
